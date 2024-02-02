@@ -5,12 +5,6 @@ Final Project BE: Woute
 
 이러한 점을 하나의 플랫폼에서 검색하여 정보를 얻을 수 있게 모아두면 계획하기 편하지 않을까 생각을 하게 되었고, 이런한 정보를 사람들 간에 공유하여 평가 및 후기를 리뷰를 통해 더 정확한 정보를 얻을 수 있는 재미있는 공간이 될 수 있겠다는 생각이 들어 기획하게 되었습니다.
 
-Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge
-
-Static Badge Static Badge
-
-링크
-발표 PPT
 
 http://3.36.219.193
 
